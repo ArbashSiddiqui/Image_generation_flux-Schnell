@@ -2,7 +2,7 @@ import os
 
 
 from huggingface_hub import login
-login(token="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")
+login(token="Your_hugging_face_access_token")
 
 from  gradio_client import Client 
 
